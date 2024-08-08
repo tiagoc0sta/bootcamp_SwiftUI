@@ -11,7 +11,7 @@ import SwiftUI
 struct _9_BootcampSwiftUIApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            IntroView()
         }
     }
 }

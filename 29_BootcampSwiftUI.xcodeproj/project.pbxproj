@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F04CDD9F2C652E2A00A7128E /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F04CDD9E2C652E2A00A7128E /* ProfileView.swift */; };
 		F05A4FF92C61263300775F0C /* IntroView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F05A4FF82C61263300775F0C /* IntroView.swift */; };
 		F05A4FFB2C61291000775F0C /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F05A4FFA2C61291000775F0C /* OnboardingView.swift */; };
 		F0BB8C212C5E945F009045C0 /* _9_BootcampSwiftUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0BB8C202C5E945F009045C0 /* _9_BootcampSwiftUIApp.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F04CDD9E2C652E2A00A7128E /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
 		F05A4FF82C61263300775F0C /* IntroView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntroView.swift; sourceTree = "<group>"; };
 		F05A4FFA2C61291000775F0C /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
 		F0BB8C1D2C5E945F009045C0 /* 29_BootcampSwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = 29_BootcampSwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -43,6 +45,7 @@
 			children = (
 				F05A4FF82C61263300775F0C /* IntroView.swift */,
 				F05A4FFA2C61291000775F0C /* OnboardingView.swift */,
+				F04CDD9E2C652E2A00A7128E /* ProfileView.swift */,
 			);
 			path = OnBoardingViews;
 			sourceTree = "<group>";
@@ -158,6 +161,7 @@
 				F05A4FF92C61263300775F0C /* IntroView.swift in Sources */,
 				F0BB8C2F2C5E9497009045C0 /* StateBootcamp.swift in Sources */,
 				F05A4FFB2C61291000775F0C /* OnboardingView.swift in Sources */,
+				F04CDD9F2C652E2A00A7128E /* ProfileView.swift in Sources */,
 				F0BB8C212C5E945F009045C0 /* _9_BootcampSwiftUIApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
